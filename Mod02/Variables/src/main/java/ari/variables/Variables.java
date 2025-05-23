@@ -49,5 +49,8 @@ public class Variables {
         System.out.println("Constante Pi: " + pi);
         System.out.println("Constante e: " + e);
 
+        // Operador Ternario
+
+
     }
 }

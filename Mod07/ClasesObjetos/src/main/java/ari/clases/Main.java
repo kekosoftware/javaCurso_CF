@@ -15,6 +15,7 @@ public class Main {
         System.out.println("El nombre es: " + lassie.nombre);
         System.out.println("El raza es: " + lassie.raza);
         System.out.println("El edad es: " + lassie.edad);
+        sout
 
         lassie.comer();
         lassie.ladrar();
